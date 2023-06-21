@@ -1,0 +1,21 @@
+*{
+    margin: 0 0;
+    padding: 0 0;
+}
+.app {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    min-height: 100vh;
+    height: auto;
+    background-color: rgb(238, 236, 236);
+}
+
+.heading {
+    text-align: center;
+    margin-top: 1vmax;
+    margin-bottom: 1vmax;
+    color: grey;
+}
